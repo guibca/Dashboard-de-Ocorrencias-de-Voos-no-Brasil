@@ -4,3 +4,6 @@ Dashboard interativa que apresenta as cidades brasileiras com as maiores ocorrê
 Os dados foram extraídos por meio de informações públicas disponibilizadas pela Agência Nacional de Aviação Civil (ANAC), e foram tratados utilizando as bibliotecas pandas e numpy do Python. 
 
 A dashboard foi desenvolvida utilizando a ferramenta Power BI, e permite visualizar informações relevantes sobre o tráfego aéreo brasileiro e como ele está distribuído pelo país durante determinado período.
+
+    ![image](https://user-images.githubusercontent.com/124844502/223897906-3fcc2c28-1d18-4093-a7d5-cc7d80cfeb5f.png)
+		Disponível em https://app.powerbi.com/links/0pBHmjiAIu?ctid=fa79531c-8ce5-4bd3-97ee-245e6ee266b8&pbi_source=linkShare
